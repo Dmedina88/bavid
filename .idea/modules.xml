@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-slack-bavid.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-slack-bavid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-slack-bavid_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-slack-bavid_main.iml" group="kotlin-slack-bavid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-slack-bavid_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-slack-bavid_test.iml" group="kotlin-slack-bavid" />
+    </modules>
+  </component>
+</project>
