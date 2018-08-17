@@ -20,6 +20,10 @@ apply plugin: 'application'
 
 mainClassName = "com.grayherring.bavid.HelloBotKt"
 
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.0'
+}
+
 repositories {
     mavenCentral()
 }
